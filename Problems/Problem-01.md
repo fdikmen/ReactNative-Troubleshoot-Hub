@@ -4,6 +4,7 @@ When signing for [YourProjectName], an error occurs stating that it requires a d
 
 <img width="1039" alt="Screenshot 2024-02-02 at 10 52 36" src="https://github.com/fdikmen/ReactNative-Troubleshoot-Hub/assets/8514244/a2600a40-be78-4c7c-9b56-da53c1dc3b05">
 
+This error usually occurs if you are trying to Build a Project on a Real IOS Device and you have not assigned a Developer Team from XCode.
 
 ### Solution
 
